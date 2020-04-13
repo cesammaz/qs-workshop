@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------
+Region: us-west-1
+StackName: tCaT-qs-workshop-default-684519e59fe046ddb79189c0b58c2a49
+*****************************************************************************
+ResourceStatusReason:  
+Parameter validation failed: parameter value MyNewEC2KeyPairOct18.pem for parameter
+name KeyPairName does not exist
+*****************************************************************************
+*****************************************************************************
+Events:  
+TimeStamp                         ResourceStatus      ResourceType                LogicalResourceId                                          ResourceStatusReason
+--------------------------------  ------------------  --------------------------  ---------------------------------------------------------  -------------------------------------------------------------------------------------------------------------------
+2020-04-13 21:51:35.184000+00:00  CREATE_FAILED       AWS::CloudFormation::Stack  tCaT-qs-workshop-default-684519e59fe046ddb79189c0b58c2a49  Parameter validation failed: parameter value MyNewEC2KeyPairOct18.pem for parameter name KeyPairName does not exist
+2020-04-13 21:51:33.466000+00:00  CREATE_IN_PROGRESS  AWS::CloudFormation::Stack  tCaT-qs-workshop-default-684519e59fe046ddb79189c0b58c2a49  User Initiated
+*****************************************************************************
+-----------------------------------------------------------------------------
+Tested on: Monday, 13. April 2020 09:52PM
+-----------------------------------------------------------------------------
+

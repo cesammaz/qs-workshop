@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------
+Region: us-west-1
+StackName: tCaT-qs-workshop-default-b6bb0153970a41b29ed30ca89ce66634
+*****************************************************************************
+ResourceStatusReason:  
+Parameter validation failed: parameter value MyNewNorthCalKeyPair.pem for parameter
+name KeyPairName does not exist
+*****************************************************************************
+*****************************************************************************
+Events:  
+TimeStamp                         ResourceStatus      ResourceType                LogicalResourceId                                          ResourceStatusReason
+--------------------------------  ------------------  --------------------------  ---------------------------------------------------------  -------------------------------------------------------------------------------------------------------------------
+2020-04-13 21:56:29.673000+00:00  CREATE_FAILED       AWS::CloudFormation::Stack  tCaT-qs-workshop-default-b6bb0153970a41b29ed30ca89ce66634  Parameter validation failed: parameter value MyNewNorthCalKeyPair.pem for parameter name KeyPairName does not exist
+2020-04-13 21:56:27.663000+00:00  CREATE_IN_PROGRESS  AWS::CloudFormation::Stack  tCaT-qs-workshop-default-b6bb0153970a41b29ed30ca89ce66634  User Initiated
+*****************************************************************************
+-----------------------------------------------------------------------------
+Tested on: Monday, 13. April 2020 09:57PM
+-----------------------------------------------------------------------------
+
